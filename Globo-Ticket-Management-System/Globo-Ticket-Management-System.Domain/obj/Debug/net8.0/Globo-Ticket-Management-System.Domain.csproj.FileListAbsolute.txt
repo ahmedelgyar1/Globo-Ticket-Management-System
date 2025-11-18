@@ -1,0 +1,12 @@
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\bin\Debug\net8.0\Globo-Ticket-Management-System.Domain.deps.json
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\bin\Debug\net8.0\Globo-Ticket-Management-System.Domain.dll
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\bin\Debug\net8.0\Globo-Ticket-Management-System.Domain.pdb
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.AssemblyInfoInputs.cache
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.AssemblyInfo.cs
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.csproj.CoreCompileInputs.cache
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.sourcelink.json
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.dll
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\refint\Globo-Ticket-Management-System.Domain.dll
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\Globo-Ticket-Management-System.Domain.pdb
+D:\Globo-Ticket-Management-System\Globo-Ticket-Management-System\Globo-Ticket-Management-System.Domain\obj\Debug\net8.0\ref\Globo-Ticket-Management-System.Domain.dll
